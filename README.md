@@ -26,9 +26,15 @@ Analyze the Dashboard and explore insights through visualizations.
 
 Key Insights
 📈 Revenue Growth: Monthly sales trends indicate peak seasons and revenue patterns.
+
 🛍️ Top Customers: Identifying high-value customers helps in targeted marketing strategies.
+
 🏆 Best-Selling Products: Helps optimize inventory and marketing campaigns.
+
+
 Future Enhancements
 🔹 Adding forecasting models for sales prediction.
+
 🔹 Integrating real-time data sources for up-to-date insights.
+
 🔹 Enhancing visual storytelling with advanced Power BI visuals.
